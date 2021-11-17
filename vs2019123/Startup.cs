@@ -51,6 +51,7 @@ namespace vs2019123
             {
                 endpoints.MapRazorPages();
             });
+            Console.Write("Hello pavani");
         }
     }
 }
